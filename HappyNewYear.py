@@ -80,7 +80,7 @@ elif n == 9:
     print("Chúc mừng năm mới 2024!!!")
 elif n == 10:
     wait()
-print("Qua THPT Việt Đức lớp 10A4 nói Anh Triết đẹp zai để nhận 10k")
+    print("Qua THPT Việt Đức lớp 10A4 nói Anh Triết đẹp zai để nhận 10k")
     
 time.sleep(4)
 print("Nếu bạn không thắng được bất cứ thứ gì ở trên thì đừng lo, vẫn còn tiết mục cuối để xem bạn có phải người được chọn không :D")
