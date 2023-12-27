@@ -40,7 +40,7 @@ print("2")
 time.sleep(1)
 print("1")
 time.sleep(1)
-print("-----------------------EVENT NĂM MỚI-----------------------")
+print("--------EVENT NĂM MỚI--------")
 n = int(input("Hãy nhập 1 số từ 1 đến 10: "))
 count = 0
 while not (1<=n<=10):
