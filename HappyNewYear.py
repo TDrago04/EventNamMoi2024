@@ -45,12 +45,9 @@ n = int(input("Hãy nhập 1 số từ 1 đến 10: "))
 count = 0
 while not (1<=n<=10):
     n = int(input("Hãy nhập 1 số từ 1 đến 10: "))
-if n == 1:
+if n == 1 or n == 2:
     wait()
     print("Bạn đã chọn số 1: Nhắn tin cho tôi cùng với bằng chứng là ảnh chụp màn hình cái này để nhận một phần quá bí mật :)")
-elif n == 2:
-    wait()
-    print("Bạn đã chọn số 2: Tôi sẽ tiết lộ 1 bí mật mà bạn muốn biết (nhắn tin cho tôi và phải cam kết không được kể ai khác)")
 elif n == 3:
     wait()
     print("Chúc mừng bạn đã được 5k :D")
